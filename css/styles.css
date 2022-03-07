@@ -1,0 +1,107 @@
+body {
+  background-color: #EEF4F8;
+  font-size: 14px;
+  font-family: 'Karla', sans-serif;
+}
+
+.top {
+  height: 175px;
+  width: 500px;
+  background-color: white;
+  position: absolute;
+  top: 130px;
+  left: 430px;
+  border-radius: 5px 5px 0 0;
+}
+
+.left-bottom {
+  height: 200px;
+  width: 250px;
+  background-color: #2ab2af;
+  position: absolute;
+  top: 305px;
+  left: 430px;
+  border-radius: 0 0 0 5px;
+}
+
+.right-bottom {
+  height: 200px;
+  width: 250px;
+  background-color: #2cbab8;
+  position: absolute;
+  top: 305px;
+  right: 430px;
+  border-radius: 0 0 5px 0;
+}
+
+.h1-top {
+  color: #30cfcc;
+  margin: 30px auto auto 25px;
+  font-size: 23px;
+}
+
+.h2-top {
+  color: #c1e038;
+  margin: 16px auto auto 25px;
+  font-size: 17px;
+}
+
+.p-top {
+  color: #b6d1e2;
+  font-size: 12px;
+  margin: 16px auto auto 25px;
+  line-height: 1.5;
+}
+
+.left-bottom-text {
+  color: #ffffff;
+  font-size: 18px;
+  margin: 20px auto auto 25px;
+}
+
+.price-bottom {
+  color: #ffffff;
+  font-size: 28px;
+  margin: 20px auto auto 25px;
+}
+
+.per-month {
+  color: #F7F7F7;
+  font-size: 15px;
+  margin: 20px auto auto 8px;
+}
+
+.full-access {
+  color: #ffffff;
+  font-size: 12px;
+  margin: 20px auto auto 25px;
+}
+
+.button {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: 100;
+  margin: 20px auto auto 25px;
+  background-color: #C1E038;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.right-bottom-h2 {
+  color: #FFFFFF;
+  font-size: 18px;
+  margin: 20px auto auto 25px;
+}
+
+.p-text1 {
+  color: #FFFFFF;
+  font-size: 14px;
+  margin: 20px auto auto 25px;
+}
